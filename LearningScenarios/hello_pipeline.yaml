@@ -3,7 +3,7 @@ kind: WorkflowTemplate
 metadata:
   name: first-pipeline-2001040 
   annotations:
-    scenarios.ai.sap.com/description: "Introduction to SAP AI Core"
+    scenarios.ai.sap.com/description: "Introduction to SAP AI Core by mohammed"
     scenarios.ai.sap.com/name: "Tutorial"
     executables.ai.sap.com/description: "Greets the user"
     executables.ai.sap.com/name: "Hello Pipeline"
