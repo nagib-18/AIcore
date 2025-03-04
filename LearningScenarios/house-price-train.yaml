@@ -37,4 +37,3 @@ spec:
           value: "{{workflow.parameters.DT_MAX_DEPTH}}" # value to set from local (to workflow) variable DT_MAX_DEPTH
       args:
         - "python /app/src/main.py"spec:
-    ...
