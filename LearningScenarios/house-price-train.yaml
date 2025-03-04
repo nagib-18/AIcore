@@ -38,10 +38,3 @@ spec:
       args:
         - "python /app/src/main.py"spec:
     ...
-    templates:
-    ...
-    - name: mycodeblock1
-      metadata:
-        labels:
-            ai.sap.com/resourcePlan: starter
-    ...
