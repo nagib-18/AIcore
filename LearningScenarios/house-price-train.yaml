@@ -36,4 +36,12 @@ spec:
         - name: DT_MAX_DEPTH # name of the environment variable inside Docker container
           value: "{{workflow.parameters.DT_MAX_DEPTH}}" # value to set from local (to workflow) variable DT_MAX_DEPTH
       args:
-        - "python /app/src/main.py"
+        - "python /app/src/main.py"spec:
+    ...
+    templates:
+    ...
+    - name: mycodeblock1
+      metadata:
+        labels:
+            ai.sap.com/resourcePlan: starter
+    ...
