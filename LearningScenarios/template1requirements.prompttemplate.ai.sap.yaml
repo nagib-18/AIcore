@@ -37,10 +37,6 @@ Project name:{{?Project_Name}}
 Name:{{?Name}}"
   defaults:
     instruction: "default instruction"
-  additionalFields:
-    isDev: true
-    validations:
-      required: true
     blockedModels:
       - name: "gpt-4"
         versions: "gpt-4-vision"
