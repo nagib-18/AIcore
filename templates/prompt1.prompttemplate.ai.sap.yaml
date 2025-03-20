@@ -1,6 +1,6 @@
-name: simple
-version: 0.0.1
-scenario: my-scenario
+name: simple1
+version: 0.0.2
+scenario: my-scenario23
 spec:
   template:
     - role: "system"
