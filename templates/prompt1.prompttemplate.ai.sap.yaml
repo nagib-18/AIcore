@@ -6,15 +6,7 @@ spec:
     - role: "system"
       content: "convert the following list to a requirements document following the order of the use input"
     - role: "user"
-      content: "Document title: Requirements document
-Date:{{?Date}}
-Project Number:{{?Project_number}}
-Project name:{{?Project_Name}}
-{{?Requirement1}}
-{{?Requirement2}}
-{{?Requirement3}}
-{{?Requirement4}}
-Name:{{?Name}}"
+      content: "hghg"
   defaults:
     instruction: "default instruction"
   additionalFields:
